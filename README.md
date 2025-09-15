@@ -1,7 +1,7 @@
 # Tiny decoder-only language model
 
  
-This repository contains a from-scratch implementation of [NanoGPT (decoder-only)](https://github.com/karpathy/nanoGPT/tree/master) for text generation in the style of Edgar Allan Poe
+This repository contains a from-scratch implementation of [NanoGPT (decoder-only)](https://github.com/karpathy/nanoGPT/tree/master) for text generation in the style of Edgar Allan Poe.
 
 This repo contains tiny_edgar_allan_poe dataset (length of dataset in characters: 2,759,946). 
 
