@@ -7,6 +7,11 @@ This repo contains tiny_edgar_allan_poe dataset (length of dataset in characters
 
 https://huggingface.co/datasets/Cagatayisil/tiny_edgar_allan_poe
 
+Characters:
+ !"$&'()*+,-./0123456789:;>?ABCDEFGHIJKLMNOPQRSTUVWXYZ[]_abcdefghijklmnopqrstuvwxyz{}~°¶½ÆàâäæçèéêëîïôõöúûüŒœΑΓΕΛΜΞΠαγδεηικλμνξοπρςστυφχωῆῦ—‘’“”†‡′″
+ 
+The number of characters:149
+
 The Language model here uses a character-level tokenizer.
 
 Trained on Macbook M2 for 100,000 iterations.
